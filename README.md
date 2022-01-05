@@ -1,7 +1,7 @@
 # tsha256
 
-tsha256 is a register only implementations of the Secure Hash Algorithm 2
-(SHA256, SHA512/256).
+tsha256 is a register only implementation of the Secure Hash Algorithm 2
+(SHA256).
 
 It was originally intended to be integrated into the Linux kernel to replace
 the modified TRESOR sha256 implementation.  The t comes from TRESOR which
