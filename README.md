@@ -21,7 +21,7 @@ It is on hold for larger key sizes due to technical issues with not enough
 register space until a new CPU can be obtained.
 
 The other reason for the hold is the
-[cryptoanalysis attack issues](https://en.wikipedia.org/wiki/SHA-2#Comparison_of_SHA_functions)
+[cryptanalysis attack issues](https://en.wikipedia.org/wiki/SHA-2#Comparison_of_SHA_functions)
 with SHA-2.
 
 Only the reference implementation for SHA512/256 was complete but the assembly
