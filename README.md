@@ -33,7 +33,7 @@ if the 64 byte sequence for the size is correct.
 
 Implementing the .c reference version took about a day to complete.
 
-The sha256 assembly version took about a week to complete each.
+The sha256 assembly version took about 11 days to complete.
 
 ## License
 
